@@ -1,1 +1,2 @@
+--Select all:
 SHOW DATABASES
