@@ -1,2 +1,2 @@
 -- a script that computes the score averagge of all records
-Select AVG(score) FROM second_table;
+Select AVG(score) AS average FROM second_table;
