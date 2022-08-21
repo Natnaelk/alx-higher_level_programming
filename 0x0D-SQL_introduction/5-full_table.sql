@@ -1,2 +1,2 @@
 -- this query shows table discription
-SHOW COLUMNS FROM first_table;
+SHOW TABLE STATUS FROM hbtn_0c_0;
